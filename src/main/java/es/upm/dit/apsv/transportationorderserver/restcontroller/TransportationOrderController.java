@@ -1,4 +1,4 @@
-package es.upm.dit.apsv.transportationorderserver.controller;
+package es.upm.dit.apsv.transportationorderserver.restcontroller;
 
 import java.util.List;
 
